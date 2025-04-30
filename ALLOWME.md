@@ -2,6 +2,8 @@
 *Granting Temporary Access to a Private GitHub Repository*
 
 ---
+For the fastest method, see: [One-Move-Access.md](One-Move-Access.md)
+---
 
 ## ✅ Steps to Allow Access (One User Only)
 
