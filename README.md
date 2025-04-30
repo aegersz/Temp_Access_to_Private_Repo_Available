@@ -2,6 +2,12 @@
 *Controlled Access Portal for Select Neuropharmacoescapades Resources*
 
 ---
+# 🧠🔐 Temp_Access_to_Private_Repo_Available
+➡️
+![Access Controlled](https://img.shields.io/badge/Access-Temp%20By%20Request-inactive?style=for-the-badge&logo=github&logoColor=white&color=gray)
+⬅️
+Controlled access gateway for Neuropharmacoescapades (and more) project files.
+---
 
 ## 🔒 About This Gateway
 
